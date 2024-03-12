@@ -18,3 +18,21 @@ tampilan yang ditampilkan berubah setelah kita menambahkan mygallery, dimana pad
 ![week3 2 1](image/week%203,%202,1.png)
 
 Soal 4 
+
+Memperbaiki src/components/todolist.tsx
+
+![week3 3 2](image/week%203,%203.png)
+
+![week3 3 2](image/week%203,%203,1.png)
+
+Soal 5 - 6 
+
+memperbaiki code dan mengatur size pada image agar dapat menyesuaikan ukuran setelah code di update 
+
+![week3 4](image/week%203,%204.png)
+
+menjadi :
+
+![week3 4 1](image/week%203,%204,1.png)
+
+Soal 7 - 9 masih belum solve
